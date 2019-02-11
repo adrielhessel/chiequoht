@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://achaemi.creoslate.tech/sitemap.xml
